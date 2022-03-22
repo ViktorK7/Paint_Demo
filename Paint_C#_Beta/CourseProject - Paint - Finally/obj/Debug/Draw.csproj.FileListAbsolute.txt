@@ -1,0 +1,70 @@
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+D:\Programming\ГПИ\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+D:\Programming\ГПИ\C#\CourseProject - Paint\bin\Debug\Draw.exe
+D:\Programming\ГПИ\C#\CourseProject - Paint\bin\Debug\Draw.pdb
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.Properties.Resources.resources
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.MainForm.resources
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.exe
+D:\Programming\ГПИ\C#\CourseProject - Paint\obj\Debug\Draw.pdb
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.Properties.Resources.resources
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.MainForm.resources
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.exe
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\obj\Debug\Draw.pdb
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\bin\Debug\Draw.exe
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint\bin\Debug\Draw.pdb
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\bin\Debug\Draw.exe
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\bin\Debug\Draw.pdb
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.Properties.Resources.resources
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.MainForm.resources
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.exe
+D:\Programming\ГПИ\CourseProject - Paint- part3\CourseProject - Paint Last\obj\Debug\Draw.pdb
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\bin\Debug\Draw.exe
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\bin\Debug\Draw.pdb
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.Properties.Resources.resources
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.MainForm.resources
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.exe
+D:\Programming\ГПИ\Project\CourseProject - Paint - Finally\obj\Debug\Draw.pdb
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\bin\Debug\Draw.exe
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\bin\Debug\Draw.pdb
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.MainForm.resources
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.exe
+C:\Users\kader\Desktop\Project\CourseProject - Paint - Finally\obj\Debug\Draw.pdb
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\bin\Debug\Draw.exe
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\bin\Debug\Draw.pdb
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.MainForm.resources
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.exe
+C:\Users\kader\Desktop\Paint_C#_Beta\CourseProject - Paint - Finally\obj\Debug\Draw.pdb
